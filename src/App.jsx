@@ -1,4 +1,4 @@
-﻿import { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import "./styles.css";
 import InvitePage from "./components/InvitePage";
 import Organizer from "./components/Organizer";
